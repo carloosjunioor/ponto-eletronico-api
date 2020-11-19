@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "paginacao.qtd_por_pagina",
+  "type": "java.lang.String",
+  "description": "A description for 'paginacao.qtd_por_pagina'"
+}]}
