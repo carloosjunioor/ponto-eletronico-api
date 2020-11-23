@@ -1,4 +1,4 @@
-package com.carlos.pontoeletronico.utils;
+package com.carlos.pontoeletronico.api.utils;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

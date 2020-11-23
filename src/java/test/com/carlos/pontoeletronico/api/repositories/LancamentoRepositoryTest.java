@@ -24,7 +24,7 @@ import com.carlos.pontoeletronico.api.entities.Funcionario;
 import com.carlos.pontoeletronico.api.entities.Lancamento;
 import com.carlos.pontoeletronico.api.enums.PerfilEnum;
 import com.carlos.pontoeletronico.api.enums.TipoEnum;
-import com.carlos.pontoeletronico.utils.PasswordUtils;
+import com.carlos.pontoeletronico.api.utils.PasswordUtils;
 
 
 
