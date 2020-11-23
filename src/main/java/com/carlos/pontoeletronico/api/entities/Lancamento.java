@@ -1,4 +1,4 @@
-package com.carlos.pontoeletronico.entities;
+package com.carlos.pontoeletronico.api.entities;
 
 import java.io.Serializable;
 import java.util.Date;
@@ -18,7 +18,7 @@ import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
-import com.carlos.pontoeletronico.enums.TipoEnum;
+import com.carlos.pontoeletronico.api.enums.TipoEnum;
 
 	@Entity
 	@Table(name = "lancamento")

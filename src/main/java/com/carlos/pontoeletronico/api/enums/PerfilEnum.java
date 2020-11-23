@@ -1,4 +1,4 @@
-package com.carlos.pontoeletronico.enums;
+package com.carlos.pontoeletronico.api.enums;
 
 public enum PerfilEnum {
 	ROLE_ADMIN,

@@ -1,4 +1,4 @@
-package com.carlos.pontoeletronico.entities;
+package com.carlos.pontoeletronico.api.entities;
 
 import java.io.Serializable;
 import java.math.BigDecimal;
@@ -22,7 +22,7 @@ import javax.persistence.PreUpdate;
 import javax.persistence.Table;
 import javax.persistence.Transient;
 
-import com.carlos.pontoeletronico.enums.PerfilEnum;
+import com.carlos.pontoeletronico.api.enums.PerfilEnum;
 
 @Entity
 @Table(name= "funcionario")

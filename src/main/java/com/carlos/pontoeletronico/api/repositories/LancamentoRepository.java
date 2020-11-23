@@ -1,4 +1,4 @@
-package com.carlos.pontoeletronico.repositories;
+package com.carlos.pontoeletronico.api.repositories;
 
 import java.util.List;
 
@@ -11,7 +11,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.carlos.pontoeletronico.entities.Lancamento;
+import com.carlos.pontoeletronico.api.entities.Lancamento;
 
 @Transactional(readOnly = true)
 @NamedQueries({
